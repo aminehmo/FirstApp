@@ -109,7 +109,6 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hey</h1>
         <CssBaseline />
         <AppBar>
           <div style={this.state.styleA}>
