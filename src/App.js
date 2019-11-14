@@ -43,7 +43,7 @@ export default class App extends React.Component {
         expand: false
       },
       {
-        SenderName: "Gillian",
+        SenderName: "Ahmed",
         Mesg: "i will not attend today ",
         Image: "gillian.png",
         status: "Inbox",
