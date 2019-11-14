@@ -29,7 +29,7 @@ export default class App extends React.Component {
     styleA: { height: 60, marginLeft: 100, display: "flex" },
     emailData: [
       {
-        SenderName: "John",
+        SenderName: "Henry",
         Mesg: "This is an important msg",
         Image: "ahmed.png",
         status: "Inbox",
@@ -43,7 +43,7 @@ export default class App extends React.Component {
         expand: false
       },
       {
-        SenderName: "Ahmed",
+        SenderName: "Gillian",
         Mesg: "i will not attend today ",
         Image: "gillian.png",
         status: "Inbox",
